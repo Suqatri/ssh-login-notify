@@ -2,7 +2,7 @@
 ! This project is not intended to replace other security measures such as public keys! !
 
 This project should make it possible to quickly identify SSH logins that may not have come from you, by sending a notification to your cell phone. 
-In the config you can set your region/city/IP. For all logins that do not match the data set, a notification is sent to the mobile phone via webhook.
+In the config you can set your region/city/IP. For all logins that do not match the data set in the config, a notification is sent to the mobile phone via webhook.
 
 ![image](https://user-images.githubusercontent.com/44299323/225137084-bc2f2547-a08f-4e81-8bd8-80a347753ace.png)
 
